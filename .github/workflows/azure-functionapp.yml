@@ -5,7 +5,7 @@ on:
       - master
 
 env:
-  ResourceGroup: robkroll-letsencrypt-fn
+  ResourceGroup: tetravero-letsencrypt-fn
 jobs:
   build:
     runs-on: ubuntu-latest
